@@ -35,7 +35,7 @@
       },
       {
         "id": "us_passport_input",
-        "name": "US Passport",
+        "name": "USA Passport",
         "constraints": {
           "fields": [
             {
